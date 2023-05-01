@@ -65,5 +65,4 @@ class BestFitCPUTest {
         memAllocation = bestFit.fitProcess(sizeOfBlocks, sizeOfProcesses);
         testMemAllocation = new ArrayList<>(Arrays.asList(-255, -255));
         assertEquals(testMemAllocation, memAllocation);
-    }
-}
+   ggggggggggggg
